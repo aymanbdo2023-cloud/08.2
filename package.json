@@ -1,0 +1,17 @@
+{
+  "name": "08-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "amqplib": "^2.0.1",
+    "express": "^5.2.1"
+  }
+}
